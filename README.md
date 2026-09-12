@@ -1,4 +1,4 @@
-# LTM Default Rate Forecasting — Institutional Loan Market
+# LTM Default Rate Forecasting - Institutional Loan Market
 
 Individual assignment (70% of module grade) for Financial Econometrics, MSc Finance, Dublin City University.
 
